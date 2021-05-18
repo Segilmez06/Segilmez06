@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my github profile! I'm a C# and C++ developer. I also have a website whish I share files about Minecraft. Don't forget to check out my website!
 
 <!--
 **Segilmez06/Segilmez06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
