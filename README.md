@@ -1,7 +1,7 @@
-### Hi there 👋
+### 👋 Hi there
 Welcome to my github profile! I'm a C# and C++ developer. I also have a website whish I share files about Minecraft. Don't forget to check out my website!
 
-### My Stats
+### 💬 My Stats
 <a href="https://github.com/Segilmez06">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
