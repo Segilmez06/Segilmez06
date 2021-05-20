@@ -1,3 +1,5 @@
+![BackGround](./BG.png)
+
 # Sarp Eren EGILMEZ 
 
 ## 👋 Hi there
