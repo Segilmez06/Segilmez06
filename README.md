@@ -1,7 +1,5 @@
 ![BackGround](./BG.png)
 
-# Sarp Eren EGILMEZ 
-
 ## 👋 Hi there
 Welcome to my github profile! I'm a C# and C++ developer. I also have a website whish I share files about Minecraft. Don't forget to check out my website!
 
