@@ -7,14 +7,12 @@ Welcome to my GitHub profile! I'm a C# and C++ developer. I upload codes about A
 ## 📈 My Stats
 
 ![Segilmez06's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&show_icons=true&theme=tokyonight)
+![Segilmez06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight)
+
 <!--
 <a href="https://github.com/Segilmez06">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
--->
-
-![Segilmez06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight)
-<!--
 <a href="https://github.com/Segilmez06">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
 </a>
