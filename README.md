@@ -1,4 +1,5 @@
-![BackGround](./BG.png)
+![Title](./BG.png)
+***
 
 ## 👋 Hi there
 Welcome to my GitHub profile! I'm a C# and C++ developer. I upload codes about Arduino and cross platform C# apps. I also have a website which I share files about Minecraft. Don't forget to check out my website!
