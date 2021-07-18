@@ -5,18 +5,8 @@ Welcome to my GitHub profile! I'm a C# and C++ developer. I upload codes about A
     
     
 ## 📈 My Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight" />
-
-<!--<a href="https://github.com/Segilmez06">
-</a>
-<a href="https://github.com/Segilmez06">
-</a>-->
-
-<!--
-![Segilmez06's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&show_icons=true&theme=tokyonight)
-![Segilmez06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight)
--->
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&show_icons=true&theme=tokyonight"></a>
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight"></a>
     
     
 ## 📫 Links
