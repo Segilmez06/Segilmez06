@@ -1,4 +1,4 @@
-![Title](./BG.png)
+![Title](./title.png)
 
 ***
 
