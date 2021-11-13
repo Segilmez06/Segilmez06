@@ -7,9 +7,10 @@ Welcome to my GitHub profile! I'm a C# and Powershell developer. I mostly upload
     
     
 ## 📈 My Stats
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&show_icons=true&theme=tokyonight"></a>
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight"></a>
-    
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&show_icons=true&theme=tokyonight"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight"></a>
+</p>
     
 ## 📫 Links
 My Webpage - <a href="https://www.sarpe.tk">sarpe.tk</a>    
