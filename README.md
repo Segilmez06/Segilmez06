@@ -3,7 +3,7 @@
 ***
 
 ## 👋 Hi there
-Welcome to my GitHub profile! I'm a C# and Powershell developer. I mostly upload .Net and Node.js projects. I also have a website which I share files about Minecraft and don't forget to check my website!
+Welcome to my GitHub profile! I'm a C# and Powershell developer also I'm a student. I mostly upload .Net and Node.js projects.
     
     
 ## 📈 My Stats
