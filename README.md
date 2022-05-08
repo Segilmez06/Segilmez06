@@ -1,11 +1,11 @@
-![Title](./title.png)
+<img src="title.png">
 
 ***
 
 ## 👋 Hi there
-Welcome to my GitHub profile! I'm a C# and Powershell developer also I'm a student. I mostly upload .Net and Node.js projects.
+Welcome to my GitHub profile! I'm a Debian user and a student. I mostly share .Net and Node.js projects.
 
-!["Visitors"](https://komarev.com/ghpvc/?username=segilmez06&label=Visits "Visitors")
+<img src="https://komarev.com/ghpvc/?username=segilmez06&label=Visits">
 
 ## 📝 Languages, Frameworks and IDEs
 <p align="center">
@@ -31,13 +31,14 @@ Welcome to my GitHub profile! I'm a C# and Powershell developer also I'm a stude
 ## 📈 My Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight&layout=compact&border_radius=15" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&show_icons=true&theme=tokyonight&layout=compact&border_radius=15" width="42%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight&layout=compact" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&show_icons=true&theme=tokyonight&layout=compact" width="42%">
+    <img src="https://github-profile-trophy.vercel.app/?username=Segilmez06&show_icons=true&theme=tokyonight" width="92%">
 </p>
     
 ## 📫 Links
 My Webpage - <a href="https://www.sarpegilmez.com">sarpegilmez.com</a>    
-My Channnel - <a href="https://www.youtube.com/channel/UCnl93Fv9NwufJhTPPe82lig">youtube.com/erentronik</a>   
+<!-- My Channnel - <a href="https://www.youtube.com/channel/UCnl93Fv9NwufJhTPPe82lig">youtube.com/erentronik</a> --->
 My Repos - <a href="https://github.com/Segilmez06?tab=repositories">github.com/Segilmez06</a>   
 
 <!--
