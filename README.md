@@ -4,7 +4,7 @@
 
 ## 👋 Hi there
 Welcome to my GitHub profile! I'm a C# and Powershell developer also I'm a student. I mostly upload .Net and Node.js projects.
-    
+[![](https://komarev.com/ghpvc/?username=segilmez06&label=visitors)](https://www.sarpegilmez.com)
     
 ## 📈 My Stats
 <p align="center">
