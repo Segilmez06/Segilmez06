@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a C# and Powershell developer also I'm a stude
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge">
