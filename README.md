@@ -37,9 +37,10 @@ Welcome to my GitHub profile! I'm a Debian user and a student. I mostly share .N
 </p>
     
 ## 📫 Links
-My Webpage - <a href="https://www.sarpegilmez.com">sarpegilmez.com</a>    
-<!-- My Channnel - <a href="https://www.youtube.com/channel/UCnl93Fv9NwufJhTPPe82lig">youtube.com/erentronik</a> --->
-My Repos - <a href="https://github.com/Segilmez06?tab=repositories">github.com/Segilmez06</a>   
+My Webpage - <a href="https://www.sarpegilmez.com">sarpegilmez.com</a><br /> 
+My Repos - <a href="https://github.com/Segilmez06?tab=repositories">github.com/Segilmez06</a><br /> 
+My Activity on 3D - <a href="https://skyline.github.com/Segilmez06">skyline.github.com/Segilmez06</a><br /> 
+My Channnel - <a href="https://www.youtube.com/channel/UCpUM9z9rE19STNYO7H5zbag">youtube.com</a><br /> 
 
 <!--
 **Segilmez06/Segilmez06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
