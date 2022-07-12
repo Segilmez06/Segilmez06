@@ -42,6 +42,8 @@ My Repos - <a href="https://github.com/Segilmez06?tab=repositories">github.com/S
 My Activity on 3D - <a href="https://skyline.github.com/Segilmez06">skyline.github.com/Segilmez06</a><br /> 
 My Channnel - <a href="https://www.youtube.com/channel/UCpUM9z9rE19STNYO7H5zbag">youtube.com</a><br /> 
 
+<img src="curved-line-gradient.webp">
+
 <!--
 **Segilmez06/Segilmez06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
