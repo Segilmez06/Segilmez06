@@ -3,7 +3,7 @@
 ***
 
 ## 👋 Hi there
-Welcome to my GitHub profile! I'm a Debian user and a student. I mostly share .Net and Node.js projects.
+Welcome to my GitHub profile! I'm a Linux user and a student. I mostly share web and desktop projects.
 
 <img src="https://komarev.com/ghpvc/?username=segilmez06&label=Visits">
 
