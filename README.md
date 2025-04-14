@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a Linux user and a student. I mostly share web
 </p>
     
 ## 📫 Links
-My Webpage - <a href="https://www.sarpegilmez.com">sarpegilmez.com</a><br /> 
+My Webpage - <a href="https://sarpegilmez.net">sarpegilmez.net</a><br /> 
 My Repos - <a href="https://github.com/Segilmez06?tab=repositories">github.com/Segilmez06</a><br /> 
 My Activity on 3D - <a href="https://skyline.github.com/Segilmez06">skyline.github.com/Segilmez06</a><br /> 
 My Channnel - <a href="https://www.youtube.com/channel/UCpUM9z9rE19STNYO7H5zbag">youtube.com</a><br /> 
