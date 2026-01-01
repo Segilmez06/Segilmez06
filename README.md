@@ -1,60 +1,129 @@
-<img src="title.png">
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <img src="https://avatars.githubusercontent.com/u/33354718?v=4" alt="Description" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <h1>Sarp Eren EGILMEZ</h1>
+      <h4>Undergraduate EEE student with 8+ years of Linux experience.</h4>
+      <p>
+        Focusing on embedded systems, robotics and Linux desktop ecosystem.
+        Experience in Windows development, 3D printing and self hosting.
+        Involved in a large variety of technical projects spanning both hardware and software.
+      </p>
+    </td>
+  </tr>
+</table>
 
-***
 
-## 👋 Hi there
-Welcome to my GitHub profile! I'm a Linux user and a student. I mostly share web and desktop projects.
 
-<img src="https://komarev.com/ghpvc/?username=segilmez06&label=Visits">
+[My Webpage](https://sarpegilmez.net) | [LinkedIn](https://www.linkedin.com/in/segilmez06)
 
-## 📝 Languages, Frameworks and IDEs
-<p align="center">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge">
-    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge">
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge">
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge">
-</p>
-    
-## 📈 My Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Segilmez06&show_icons=true&theme=tokyonight&layout=compact" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segilmez06&show_icons=true&theme=tokyonight&layout=compact" width="42%">
-    <img src="https://github-profile-trophy.vercel.app/?username=Segilmez06&show_icons=true&theme=tokyonight" width="92%">
-</p>
-    
-## 📫 Links
-My Webpage - <a href="https://sarpegilmez.net">sarpegilmez.net</a><br /> 
-My Repos - <a href="https://github.com/Segilmez06?tab=repositories">github.com/Segilmez06</a><br /> 
-My Activity on 3D - <a href="https://skyline.github.com/Segilmez06">skyline.github.com/Segilmez06</a><br /> 
-My Channnel - <a href="https://www.youtube.com/channel/UCpUM9z9rE19STNYO7H5zbag">youtube.com</a><br /> 
 
-<img src="curved-line-gradient.webp">
+## Education
 
-<!--
-**Segilmez06/Segilmez06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Istanbul Medeniyet University
+#### **EEE (Electrical-Electronical Engineering Major)** | _2024 - Present_
 
-Here are some ideas to get you started:
+- Focusing on robotics and embedded development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mevlana Anatolian High School
+#### **STEM** | _2020 - 2024_
+
+
+
+
+## Competitive Experience
+
+### Teknofest - Binek Otonom Araç ve Robotaksi Kategorisi
+#### **Finalist** | _2025_
+
+- Designed and engineered low-level controller for automotive using embedded systems
+
+### Üsküdar Üniversitesi 8. Bilim ve Fikir Festivali - Fen ve Teknoloji Kategorisi
+#### **6th Place** | _2022_
+
+- Fully designed, built and programmed a contactless and automated mask vending machine (see patents section below)
+
+### İTÜ Robot Olimpiyatları - Çizgi İzleyen Yarışması Kategorisi
+#### _2017, 2018_
+
+- Arduino based line following robots with fine-tunes PID controls
+
+
+
+
+## Patents
+
+### Hybrid Smart Faucet System | Utility Model
+
+- **Patent Number**: TR 2022 008030U5
+- Designed a dual-control faucet system combining IR sensing with a mechanical handle
+
+### Contactless and Automated Mask Dispensing & Disposal
+
+- **Patent Number**: TR 2022 004985Y
+- Designed a contactless sterile vending solution
+
+
+
+
+## Technical Skills
+
+### Languages
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+- **C#**: Started journey with .Net platform. Spent long time with Windows development including P/Invoke and system internals.
+- **C/C++**: Used for embedded development. My primary language as of last few years.
+- **Python**: More than 8 years of time spent in Python. My most used (as in time spend writing code) programming language. Mostly for first and quick prototyping systems and using as a step to start development.
+- **HTML/CSS/JS**: Using bare web technologies, designed many pages for different purposes including (but not limited to) my own webpage.
+
+### Tools and Platforms
+
+- **Embedded Ecosystem**: STM32Cube (HAL, CubeMX, IDE), PlatformIO, Arduino, .Net nanoFramework
+- **Build Systems**: GCC, CMake, GNU Make
+- **Virtualization & DevOps**: Docker, Podman, Distrobox for environment isolation and deployment.
+- **Version Control**: Git and GitHub for collaborative development and CI/CD via GitHub Actions.
+- **Desktop Development**: WinForms, WPF, NuGet, Electron
+- **Home Automation**: Home Assistant, ESPHome, NodeRed
+
+<!-- - **.Net platform and related tools**: WinForms, WPF, NuGet, nanoFramework, Cosmos Development Kit, WebView
+- **NodeJS, Cordova, Electron**: Has a brief time period that I developed mobile friendly apps and packaged them with Cordova. Packaged web apps with Electron.
+- **GCC, CMake, GNU Make**: Actively using these tools during my continuous embedded development cycle.
+- **STM32Cube Framework**: I actively utilize ST Microelectronics' official tools, HAL and generators on my projects.
+- **Docker, Podman, Distrobox**: Using containerization tools both on my daily systems for application environment virtualization and quick deployment from recipes.
+- **Git and GitHub**: Actively contributing to open source projects and using for version control and collabrative development for projects that I maintain. -->
+
+### Editors and IDE's
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/platformio-%23000.svg?style=for-the-badge&logo=platformio&logoColor=F5822A)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+
+- **Visual Studio Code**: My primary editor. I perform all my embedded development and editing with it.
+- **PlatformIO**: My first choice when it comes to developing embedded system that requires portability across differenct MCU/MPU's.
+
+### Operating Systems
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+- **Arch and derivatives**: 5+ years as power user. System-level tuning, tinkering with desktop ecosystem.
+- **Debian, Ubuntu and derivatives**: Primary choice for robotics, AI/ML or self-hosted infrastructure
+- **Windows**: Daily-drove lots of versions for over 12 years
+
+<!-- - **Arch and derivatives**: Currently using on all my machines. Managing deep parts of my systems and tinkering with different modules.
+- **Windows**: Daily-drove several version like XP, 7, 10 and 11 over my long 16 years of PC usage.
+- **Debian, Ubuntu and derivatives**: I regularly deploy Ubuntu on robotics and AI/ML scenes with containerization. Also my self-hosted infra runs fully on Debian platforms. -->
