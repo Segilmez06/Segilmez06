@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="30%" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/33354718?v=4" alt="Description" width="100%">
+    <td width="10%" valign="top">
+      <img src="vibrant.webp" alt="Description" width="100%">
     </td>
-    <td width="70%" valign="top">
+    <td width="90%" valign="top">
       <h1>Sarp Eren EGILMEZ</h1>
       <h4>Undergraduate EEE student with 8+ years of Linux experience.</h4>
       <p>
