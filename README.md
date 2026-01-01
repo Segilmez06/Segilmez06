@@ -61,7 +61,7 @@
 - **Patent Number**: TR 2022 008030U5
 - Designed a dual-control faucet system combining IR sensing with a mechanical handle
 
-### Contactless and Automated Mask Dispensing & Disposal
+### Contactless and Automated Mask Dispensing & Disposal | Utility Model
 
 - **Patent Number**: TR 2022 004985Y
 - Designed a contactless sterile vending solution
