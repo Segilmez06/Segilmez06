@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="10%" valign="top">
+    <td width="15%" valign="top">
       <img src="vibrant.webp" alt="Description" width="100%">
     </td>
-    <td width="90%" valign="top">
+    <td width="85%" valign="top">
       <h1>Sarp Eren EGILMEZ</h1>
       <h4>Undergraduate EEE student with 8+ years of Linux experience.</h4>
       <p>
