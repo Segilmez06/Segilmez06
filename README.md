@@ -56,12 +56,12 @@
 
 ## Patents
 
-### Hybrid Smart Faucet System | Utility Model
+### [Hybrid Smart Faucet System | Utility Model](https://patents.google.com/patent/TR2022008030U5/tr?q=%28sarp+eren+e%C4%9Filmez%29)
 
 - **Patent Number**: TR 2022 008030U5
 - Designed a dual-control faucet system combining IR sensing with a mechanical handle
 
-### Contactless and Automated Mask Dispensing & Disposal | Utility Model
+### [Contactless and Automated Mask Dispensing & Disposal | Utility Model](https://patents.google.com/patent/TR2022004985Y/tr?q=%28sarp+eren+e%C4%9Filmez%29)
 
 - **Patent Number**: TR 2022 004985Y
 - Designed a contactless sterile vending solution
